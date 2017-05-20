@@ -1,0 +1,169 @@
+/*index 1*/
+body {
+	text-align: center;
+}
+.caja1 {
+	display: block;
+	padding-bottom: 50px;
+	padding-left: 0;
+	width: 100%;
+	margin-right: 5px;
+	text-align: left;
+	font-family: monospace;
+	font-size: 30px;
+}
+	
+}
+
+#lab {
+	background: yellow;
+}
+
+#es {
+	background: fuchsia;
+	border: 2px black solid;
+
+}
+
+#trans {
+	background: yellow;
+}
+
+
+
+
+
+
+
+
+/*index 2*/
+body {
+	text-align: center;
+}
+.caja2 {
+	display: block;
+	padding-bottom: 50px;
+	padding-left: 10px;
+	width: 250px;
+	margin-left: auto;
+	margin-top: 10px;
+	margin-right: 5px;
+	text-align: left;
+	font-family: monospace;
+	font-size: 30px;
+	
+}
+
+#lab {
+	background: yellow;
+}
+
+#es {
+	background: fuchsia;
+	border: 2px black solid;
+
+}
+
+#trans {
+	background: yellow;
+}
+
+
+
+
+
+
+
+
+
+/*index 3*/
+
+body {
+	text-align: center
+}
+.caja3 {
+	display: inline-block;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	width: 250px;
+	margin-left: auto;
+	margin-top: 10px;;
+	margin-right: 5px;
+	text-align: left;
+	font-family: monospace;
+	font-size: 30px;
+}
+
+#lab {
+	background: yellow;
+}
+
+#es {
+	background: fuchsia;
+	border: 2px black solid;
+
+}
+
+#trans {
+	background: yellow;
+}
+
+
+
+
+
+
+/*index 4*/
+body {
+	text-align: center
+}
+.container {
+	display: inline-block;
+	padding-bottom: 50px;
+	padding-left: 10px;
+	width: 250px;
+	margin-left: auto;
+	margin-top: 10px;;
+	margin-right: 5px;
+	text-align: left;
+	font-family: monospace;
+	font-size: 30px;
+}
+
+#lab {
+	background: yellow;
+}
+
+#es {
+	background: fuchsia;
+	border: 2px black solid;
+
+}
+
+#trans {
+	background: yellow;
+}
+
+/*index 5*/
+.caja{
+	background-color: gray;
+	border: 1px solid black;
+	height: 100px;
+	width: 100px;
+	margin: 10px 10px;
+
+}
+
+.enfila{
+	display: inline-block;
+}
+
+.ajustable{
+	overflow: hidden;
+	height: auto;
+	width: 380px;
+}
+.alado{
+	display: inline-block;
+}
+
